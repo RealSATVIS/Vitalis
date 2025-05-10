@@ -7,6 +7,16 @@
 
 ---
 
+## Home
+![Home](https://raw.githubusercontent.com/RealSATVIS/Vitalis/refs/heads/master/shots/Home.JPG)
+The homepage is designed to be minimalistic in nature and versatile for users to navigate thorugh the features
+
+
+
+
+
+
+
 ## 🚀 Getting Started (Local Setup)
 
 Follow these steps to run the project locally:
