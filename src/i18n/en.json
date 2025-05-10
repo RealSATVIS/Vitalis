@@ -1,0 +1,176 @@
+{
+  
+  "Launching Soon": "Launching Soon",
+  "Vitality for the": "Vitality for the",
+  "Digital Age": "Digital Age",
+  "Hero Description": "Pioneering a new era in agriculture through breakthrough technology—ushering in seamless, AI-driven plant disease detection and intelligent monitoring at unprecedented scale, empowering farmers worldwide to cultivate healthier crops, maximize yields, and redefine the future of sustainable farming.",
+  "Login": "Log in",
+  "Learn More": "Learn More",
+
+  "features.heading": "Comprehensive Features for both Domestic as well as Rural Agriculture",
+  "features.subheading": "Discover how Vitalis can transform modern agricultural methods with innovative features.",
+  "features.crop_health.title": "Crop Health Tracking",
+  "features.crop_health.description": "Monitor plant vitals and health metrics with precision and ease.",
+  "features.data_analytics.title": "Data Analytics",
+  "features.data_analytics.description": "Gain insights through powerful analytics and personalized reports on crops.",
+  "features.realtime_monitoring.title": "Real-time Monitoring",
+  "features.realtime_monitoring.description": "Track crop health in real-time with instant notifications and alerts.",
+  "features.ai_detection.title": "AI-Powered Crop Disease Detection",
+  "features.ai_detection.description": "Access AI-tailored disease detection system.",
+  "features.mobile_integration.title": "Mobile Integration",
+  "features.mobile_integration.description": "Seamlessly sync across all your devices with our mobile-first approach.",
+  "features.community_support.title": "Community Support",
+  "features.community_support.description": "Connect with like-minded individuals on our platform.",
+   
+  "about.title": "About Vitalis",
+  "about.description": "Vitalis is a full-stack mobile and web application empowering farmers and home gardeners with actionable insights to enhance agricultural productivity through cutting-edge technology.",
+
+  "about.feature1.title": "Intuitive Dashboard",
+  "about.feature1.description": "Real-time insights on crop health parameters such as temperature, humidity, soil moisture along with crucial metrics such as evapotranspiration (ET rate) and deep percolation for analyzing root health.",
+
+  "about.feature2.title": "AI-Powered Crop Disease Detection",
+  "about.feature2.description": "Uses deep learning techniques to detect diseases from leaf images, enabling fast, accurate diagnosis and early intervention.",
+
+  "about.feature3.title": "Cost-Effective & Scalable",
+  "about.feature3.description": "Eliminates lab tests, deployable on smartphones, accessible globally, and ideal for both large-scale farmers and small-scale domestic agriculture.",
+
+  "about.feature4.title": "Sustainability",
+  "about.feature4.description": "Reduces pesticide use through smart farm management systems for automated, tech-driven farming that supports environmental health.",
+
+  "about.mission.title": "Our Mission",
+  "about.mission.description": "To democratize agricultural technology by making advanced farming insights accessible to everyone from commercial farmers to home gardeners, promoting sustainable practices and improving food security worldwide.",
+
+  "welcome": "Welcome Back",
+  "prompt": "Login with either Username or Mobile Number",
+  "username": "Username",
+  "mobile": "Mobile Number",
+  "or": "OR",
+  "next": "Next",
+  "invalid_username": "Invalid username",
+  "invalid_mobile": "Enter a valid 10-digit mobile number",
+  "enter_username_or_mobile": "Please enter either Username or Mobile Number",
+  "no_account": "Create New Account?",
+  "signup": "Sign Up",
+
+  "enter_password": "Enter Password",
+  "incorrect_password": "Incorrect Password",
+  
+
+  "heading": "Sign Up",
+  "subheading": "Create your Vitalis account",
+  "role": "Role",
+  "select_role": "Select your role",
+  
+    "cultivator": "Cultivator",
+    "agronomist": "Agronomist",
+    "homesteader": "Homesteader",
+  "username": "Username",
+  "mobile": "Mobile Number",
+  "password": "Password",
+  "button": "Sign Up",
+  "have_account": "Already have an account?",
+  "login": "Log in",
+  "error_mobile": "Mobile number must be 10 digits.",
+  "error_password": "Password must be at least 8 characters long and include at least one uppercase letter, one lowercase letter, one number, and one special character.",
+
+
+
+
+  "dashboard_title": "Vitalis Dashboard",
+  "dashboard_subtitle": "Real-time Agricultural Monitoring",
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+  "wind": "Wind Speed",
+  "condition": "Condition",
+  "pressure": "Pressure",
+  "soil_moisture": "Soil Moisture",
+  "evapotranspiration": "Evapotranspiration",
+  "precipitation": "Precipitation",
+  "deep_percolation": "Deep Percolation",
+  "weather_analysis": "Weather Analysis",
+  "soil_status": "Soil Status",
+  "leaf_detection": "Leaf Disease Detection",
+  "logout": "Logout",
+  "profile": "Profile",
+
+  "weather_summary.loading_title": "Loading Weather...",
+  "weather_summary.loading_desc": "Fetching current weather data.",
+  "weather_summary.mild_title": "Favorable Conditions",
+  "weather_summary.mild_desc": "Great weather for most crops today.",
+  "weather_summary.variable_title": "Variable Conditions",
+  "weather_summary.variable_desc": "Unstable weather detected. Monitor closely.",
+
+  "loading_title": "Loading...",
+  "loading_desc": "Fetching weather information.",
+  "warm_rain_title": "Warm with Light Rain",
+  "warm_rain_desc": "The weather is warm with some rainfall.",
+  "very_hot_rainy_title": "Very Hot and Rainy",
+  "very_hot_rainy_desc": "High temperatures with rainfall present.",
+  "subtle_clear_title": "Subtle Climate and Clear",
+  "subtle_clear_desc": "Mild conditions with no rain and clear skies.",
+  "variable_title": "Variable Weather",
+  "variable_desc": "Conditions are changing. Stay updated.",
+
+  "soil_summary.loading_title": "Loading Soil Data...",
+  "soil_summary.loading_desc": "Fetching latest soil conditions.",
+  "soil_summary.optimal_title": "Optimal Soil Conditions",
+  "soil_summary.optimal_desc": "Ideal soil moisture and balance for crops.",
+  "soil_summary.attention_title": "Soil Needs Attention",
+  "soil_summary.attention_desc": "Check irrigation and soil levels.",
+
+  "tomato_leaf_detection": "Tomato Leaf Disease Detection",
+  "potato_leaf_detection": "Potato Leaf Disease Detection",
+
+
+  "uploadImage": "Upload Image",
+  "analyze": "Analyze",
+  "analyzing": "Analyzing image...",
+  "noImage": "No image selected",
+  "moderateSeverity": "Moderate Severity",
+  "mediumSeverity": "Medium Severity",
+  "highSeverity": "High Severity",
+  "detectedDisease": "Detected Disease:",
+  "symptoms": "Symptoms",
+  "symptom1": "Light brown spots on leaf edges",
+  "symptom2": "Yellowing around the spots",
+  "symptom3": "Mild curling of leaf tips",
+  "symptom4": "Spots do not spread quickly",
+  "symptom5": "Dark brown concentric spots",
+  "symptom6": "Yellow halo around spots",
+  "symptom7": "Leaf shriveling in early stages",
+  "symptom8": "Lower leaves affected first",
+  "symptom9": "Large dark blotches on leaves",
+  "symptom10": "Water-soaked lesions",
+  "symptom11": "Rapid leaf wilting",
+  "symptom12": "Entire plant may collapse",
+
+  "cures": "Preventive Measures",
+  "cures.earlyBlight.0": "Use fungicides containing chlorothalonil or mancozeb.",
+  "cures.earlyBlight.1": "Remove and destroy infected leaves.",
+  "cures.earlyBlight.2": "Ensure proper spacing to reduce humidity.",
+
+  "cures.moderateBlight.0": "Apply copper-based fungicide weekly.",
+  "cures.moderateBlight.1": "Avoid overhead watering to reduce leaf wetness.",
+  "cures.moderateBlight.2": "Prune lower leaves to improve airflow.",
+
+  "cures.lateBlight.0": "Use systemic fungicide immediately.",
+  "cures.lateBlight.1": "Remove infected plants to prevent spread.",
+  "cures.lateBlight.2": "Disinfect garden tools regularly.",
+
+"cure1": "Apply Mancozeb or Chlorothalonil fungicides as per agricultural guidelines.",
+"cure2": "Avoid overhead irrigation to reduce leaf wetness.",
+"cure3": "Ensure proper crop rotation and remove infected debris.",
+
+"cure4": "Use fungicides like Azoxystrobin or Copper-based sprays.",
+"cure5": "Maintain proper spacing and airflow between plants.",
+"cure6": "Irrigate early in the day to allow foliage to dry.",
+
+"cure7": "Apply systemic fungicides such as Metalaxyl or Ridomil Gold.",
+"cure8": "Destroy infected plants and avoid planting in the same area.",
+"cure9": "Monitor closely during cool and wet weather conditions.",
+
+"readCures": "Read Cures",
+"stop":"Stop"
+
+
+}
