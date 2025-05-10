@@ -1,4 +1,4 @@
-# 🌾 Vitalis
+#  Vitalis
 
 ## Smart Sustainable Agricultural Monitoring & Management Hub 
 ### Monitoring
